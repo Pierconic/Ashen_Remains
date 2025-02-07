@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_overworld",
+  "features": "ashenremains:flower_field_bonus_grass_feature",
+  "step": "surface_structures"
+}

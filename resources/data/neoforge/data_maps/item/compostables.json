@@ -1,0 +1,10 @@
+{
+  "values": {
+    "ashenremains:ash_ball": {
+      "chance": 0.15
+    },
+    "ashenremains:ash": {
+      "chance": 1
+    }
+  }
+}

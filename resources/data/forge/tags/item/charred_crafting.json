@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ashenremains:charred_wood_wood",
+    "ashenremains:charred_wood_log",
+    "ashenremains:charred_wood_planks",
+    "ashenremains:charred_stripped_wood",
+    "ashenremains:charred_stripped_log"
+  ]
+}
